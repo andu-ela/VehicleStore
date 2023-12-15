@@ -1,0 +1,6 @@
+100,car,Audi A3,2010,15000,210
+101,car,BMW,2020,12300,210
+103,car,Mercedes SClass,2020,90000,190
+200,motorcycle,Suzuki,2020,10000,250
+201,motorcycle,Black Kawasaki,2019,15000,160
+202,motorcycle,EBR-motorcycle,2020,12000,274
